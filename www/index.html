@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html ng-app="visitaRio" lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content= "initial-scale=1, maximum-scale=1, user-scaleble=no">
+	<link rel="stylesheet" href="css/ratchet.min.css">
+	<link rel="stylesheet" href="css/ratchet-theme-android.min.css">
+	<style>
+		#titulo {
+			text-align: center;
+
+		}
+		
+	</style>
+	<title>Document</title>
+</head>
+<body ng-controller="visitaRioCtrl">
+	<header class="bar bar-nav">
+		<a href="#" class="icon icon-bars pull-left"></a>
+		
+		<h1 id="titulo" class="title">{{app}}</h1>
+	</header>
+	
+	<div class="content">
+
+      <ul class="table-view">
+        <li class="table-view-cell">
+          <a class="navigate-right" href="hospitais.html" data-transition="slide-in" data-ignore="push">
+            Hospitais
+            <p>Lorem ipsum dolor sit amet...</p>
+          </a>
+        </li>
+        <li class="table-view-cell">
+          <a class="navigate-right" href="delegacias.html" data-transition="slide-in" data-ignore="push">
+            Delegacias
+            <p>Lorem ipsum dolor sit amet...</p>
+          </a>
+        </li>
+        <li class="table-view-cell">
+          <a class="navigate-right" href="pturisticos.html" data-transition="slide-in" data-ignore="push">
+            Pontos Turísticos
+            <p>Lorem ipsum dolor sit amet...</p>
+          </a>
+        </li>
+        <li class="table-view-cell">
+          <a class="navigate-right" href="praias.html" data-transition="slide-in" data-ignore="push">
+            Praias
+            <p>Lorem ipsum dolor sit amet...</p>
+          </a>
+        </li>
+        <li class="table-view-cell">
+          <a class="navigate-right" href="ondecomer.html" data-transition="slide-in" data-ignore="push">
+            Onde Comer
+            <p>Lorem ipsum dolor sit amet...</p>
+          </a>
+        </li>
+        <li class="table-view-cell">
+          <a class="navigate-right" href="ondedormir.html" data-transition="slide-in" data-ignore="push">
+            Onde Dormir
+            <p>Lorem ipsum dolor sit amet...</p>
+          </a>
+        </li>
+        <li class="table-view-cell">
+          <a class="navigate-right" href="eventos.html" data-transition="slide-in" data-ignore="push">
+            Eventos
+            <p>Lorem ipsum dolor sit amet...</p>
+          </a>
+        </li>
+        <li class="table-view-cell">
+          <a class="navigate-right" href="banheiros.html" data-transition="slide-in" data-ignore="push">
+            Banheiros
+            <p>Lorem ipsum dolor sit amet...</p>
+          </a>
+        </li>
+     	</ul>
+    </div>
+	<script src="ratchet.min.js"></script>
+  <script src="lib/angular/angular.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers/visitaRioCtrl.js"></script>
+
+</body>
+</html>

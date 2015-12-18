@@ -1,0 +1,28 @@
+[
+    {
+        "name": "DEAM Rio-Oeste - Delegacia Especial de Atendimento a Mulher",
+        "description": {
+            "text": "Telefone:2232-1262"
+        },
+        "geoResult": {
+            "address": "Avenida Cesario de Mello, 4.138 - Campo Grande",
+            "point": {
+                "lng": -43.571419,
+                "lat": -22.906878
+            }
+        }
+    },
+    {
+        "name": "DEAM Rio - Delegacia Especial de Atendimento a Mulher",
+        "description": {
+            "text": "Telefone:2399-3690"
+        },
+        "geoResult": {
+            "address": "Rua Silvino Montenegro, 1 / 3º andar - Gamboa",
+            "point": {
+                "lng": -43.190819,
+                "lat": -22.893372
+            }
+        }
+    }
+]

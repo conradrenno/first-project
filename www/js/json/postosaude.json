@@ -1,0 +1,74 @@
+[
+    {
+        "name": "SMS RIO PADI PEDRO II",
+        "description": {
+            "text": "ID_CNES:7110324, Telefone:(21) 98124479, Fax: , Email: ",
+            "information_urls": [
+                {
+                    "url": " "
+                }
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.687183,
+                "lat": -22.912115
+            },
+            "address": "RUA DO PRADO, 325, ANEXO, SANTA CRUZ, 23555012, , cep - "
+        }
+    },
+    {
+        "name": "SMS CF NÉLIO DE OLIVEIRA",
+        "description": {
+            "text": "ID_CNES: , Telefone: , Fax: , Email: ",
+            "information_urls": [
+                {
+                    "url": " "
+                }
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.195688,
+                "lat": -22.897056
+            },
+            "address": "RUA DA GAMBÔA, S/N, cep - "
+        }
+    },
+    {
+        "name": "SMS CAPSad III MIRIAM MAKEBA",
+        "description": {
+            "text": "ID_CNES: , Telefone: , Fax: , Email: ",
+            "information_urls": [
+                {
+                    "url": " "
+                }
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.250116,
+                "lat": -22.857217
+            },
+            "address": "RUA JOÃO TORQUATO, 248, cep - "
+        }
+    },
+    {
+        "name": "SMS CF PALMEIRAS",
+        "description": {
+            "text": "ID_CNES: , Telefone: , Fax: , Email: ",
+            "information_urls": [
+                {
+                    "url": " "
+                }
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.280633,
+                "lat": -22.862665
+            },
+            "address": "ESTAÇÃO PALMEIRAS - TELEFÉRICO DO ALEMÃO, S/N, cep - "
+        }
+    }
+]

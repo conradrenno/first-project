@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Mio Ristorante",
+        "description": {
+            "short_text": "O Mio Ristorante esta localizado em uma das ruas mais charmosas de\r\nIpanema, a Farme de Amoedo. A cozinha com sua especialidade italiana, o\r\nrequinte dos frutos do mar e os bons vinhos da adega climatizada (onde\r\nse encontr;e0o vinhos nacionais e internacionais) marcam o estilo da casa.",
+            "text": "O Mio Ristorante esta localizado em uma das ruas mais charmosas de\r\nIpanema, a Farme de Amoedo. A cozinha com sua especialidade italiana, o\r\nrequinte dos frutos do mar e os bons vinhos da adega climatizada (onde\r\nse encontr;e0o vinhos nacionais e internacionais) marcam o estilo da casa."
+        },
+        "contactData": {
+            "website": "www.mioristorante.com.br"
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 1
+        },
+        "geoResult": {
+            "point": {
+                "lat": -22.98301,
+                "lng": -43.20056
+            },
+            "neighbourhood": "Ipanema",
+            "address": "Rua Farme de Amoedo, 52"
+        },
+        "taxonomies": [
+            {
+                "type": "Restaurantes"
+            }
+        ]
+    },
+    {
+        "name": "Olivier Cozan",
+        "description": {
+            "short_text": "O restaurante oferece pratos como o salm;e0o grelhado com legumes e\r\nbeurre blanc, o raviole de queijo de cabra com molho de manjeric;e0o ou o\r\ncamar;e0o grande com molho oriental e palmito fresco da Ilha Grande. \n",
+            "text": "O restaurante oferece pratos como o salm;e0o grelhado com legumes e\r\nbeurre blanc, o raviole de queijo de cabra com molho de manjeric;e0o ou o\r\ncamar;e0o grande com molho oriental e palmito fresco da Ilha Grande.\r\nEntre as saladas, a de pepino com creme, nozes e salm;e0o marinado; e a\r\nSalada dOlivier, que leva escargots com molho cremoso, palmitos\r\nfrescos, presunto cru e champignons, s;e0o as mais pedidas da casa."
+        },
+        "contactData": {
+            "website": "www.oliviercozan.com.br"
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 1
+        },
+        "geoResult": {
+            "point": {
+                "lat": -22.983207,
+                "lng": -43.202791
+            },
+            "neighbourhood": "Ipanema",
+            "address": "Rua VinØe9cius de Moraes, 130"
+        },
+        "taxonomies": [
+            {
+                "type": "Restaurantes"
+            }
+        ]
+    },
+    {
+        "name": "Bar d Hotel",
+        "description": {
+            "short_text": "Com vista para o mar e visual retr?-chique, s;e0o servidos entre outros\r\npratos os mini-hamb0303030rgueres de cordeiro com foie gras e teriyaki de\r\nfrutas vermelhas e o burrito de avestruz com gel61ia de pimenta e\r\nguacamole.",
+            "text": "Com vista para o mar e visual retr?-chique, s;e0o servidos entre outros\r\npratos os mini-hamb0303030rgueres de cordeiro com foie gras e teriyaki de\r\nfrutas vermelhas e o burrito de avestruz com gel61ia de pimenta e\r\nguacamole."
+        },
+        "contactData": {
+            "website": "http://www.marinaallsuites.com.br/allsuites/portugues/bar-hotel.asp"
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 1
+        },
+        "files": [
+            {
+                "file": "http://www.rioguiaoficial.com.br/sites/default/files/Bar_d_Hotel_-400.jpg"
+            },
+            {
+                "file": "http://www.rioguiaoficial.com.br/sites/default/files/Bar d_Hotel_-_ambiente.jpg"
+            }
+        ],
+        "geoResult": {
+            "point": {
+                "lat": -22.98696,
+                "lng": -43.221073
+            },
+            "neighbourhood": "Leblon",
+            "address": "Av. Delfim Moreira, 696"
+        },
+        "taxonomies": [
+            {
+                "type": "Restaurantes"
+            }
+        ]
+    },
+    {
+        "name": "Bofetada",
+        "description": {
+            "short_text": "Com ambiente descontraÙ2fdo, o bar costuma encher de cariocas e turistas\r\nque saem da praia no final da tarde. Por oferecer m",
+            "text": "Com ambiente descontraÙ2fdo, o bar costuma encher de cariocas e turistas\r\nque saem da praia no final da tarde. Por oferecer m"
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 1
+        },
+        "geoResult": {
+            "point": {
+                "lat": -22.984274,
+                "lng": -43.200817
+            },
+            "neighbourhood": "Ipanema",
+            "address": "Rua Farme de Amoedo, 87"
+        },
+        "taxonomies": [
+            {
+                "type": "Restaurantes"
+            }
+        ]
+    },
+    {
+        "name": "Taberna do Juca",
+        "description": {
+            "short_text": "O bar t«60m uma decoraxef;e0o cl\u001cf3ssica, balc;e0o de madeira onde s;cdo\r\nservidas mais de quarenta marcas de cachax60a e delØe9cias da cozinha\r\nportuguesa.",
+            "text": "O bar t«60m uma decoraxef;e0o cl\u001cf3ssica, balc;e0o de madeira onde s;cdo\r\nservidas mais de quarenta marcas de cachax60a e delØe9cias da cozinha\r\nportuguesa. \r\n Estabelecido em um casar;e0o reformado\r\ndo inØe9cio do sf5culo, seus propriet\u001ca9rios optaram por n;e0o reconstruir\r\ntotalmente o 2 andar, mantendo o p24 direito alto. O sal;e0o principal\r\nficou com 15 metros de altura, mostrando assim toda a arquitetura da\r\n2fpoca."
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 0,
+            "general_info": "Diariamente a partir de 12h"
+        },
+        "geoResult": {
+            "point": {
+                "lat": -22.912587,
+                "lng": -43.184209
+            },
+            "neighbourhood": "Lapa",
+            "address": "Av. Mem de S\u001b20, 90"
+        },
+        "taxonomies": [
+            {
+                "type": "Bares"
+            }
+        ]
+    },
+    {
+        "name": "Bar Brasil",
+        "description": {
+            "short_text": "Tradicional casa de cozinha alem831 que tem como destaque os pratos de\r\nkassler (carr24 defumado), eisben (joelho de porco) e kalbs-hackse\r\n(ossobuco de vitela). \n",
+            "text": "Tradicional casa de cozinha alem831 que tem como destaque os pratos de\r\nkassler (carr24 defumado), eisben (joelho de porco) e kalbs-hackse\r\n(ossobuco de vitela). \r\n O chopp 34 tirado de uma choppeira de bronze, encontrada em poucos lugares no Rio de Janeiro.\r\nFuncionou sob o nome Zeppelin at2f os tempos de Get.32322dlio Vargas e da\r\nentrada do Brasil na Segunda Guerra. Nesta 2fpoca, dada a antipatia\r\nnacional contra os alem973es, a casa decidiu adotar um nome mais\r\npatri?tico."
+        },
+        "characteristics": {
+            "price": "$",
+            "lgbt": 0,
+            "general_info": "Seg-Ter, 11h30-23h Qua-Sex, 11h30 d meia-noite S\u0018acb, 11h30-18h"
+        },
+        "files": [
+            {
+                "file": "http://www.rioguiaoficial.com.br/sites/default/files/Bar-Brasil-lapa2- crop.jpg"
+            }
+        ],
+        "geoResult": {
+            "point": {
+                "lat": -22.912587,
+                "lng": -43.184209
+            },
+            "neighbourhood": "Lapa",
+            "address": "Av. Mem de S\u001b20, 90"
+        },
+        "taxonomies": [
+            {
+                "type": "Bares"
+            }
+        ]
+    }
+]

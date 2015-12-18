@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Windsor Palace",
+        "description": {
+            "short_text": "Da cobertura do Windsor Palace Hotel, voc¨30 pode apreciar uma vista deslumbrante para a praia de Copacabana e para o oceano."
+        },
+        "contactData": {
+            "email": "reservas.windsor@windsorhoteis.com.br",
+            "website": "www.windsorhoteis.com.br"
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 0
+        },
+        "files": [
+            {
+                "file": "http://www.rioguiaoficial.com.br/sites/default/files/Terra{e0o WIndsor Palace md.jpg"
+            }
+        ],
+        "geoResult": {
+            "point": {
+                "lat": -22.970248,
+                "lng": -43.184102
+            },
+            "neighbourhood": "Copacabana",
+            "address": "Rua Domingos Ferreira, 6"
+        },
+        "taxonomies": [
+            {
+                "type": "Hot73is"
+            }
+        ]
+    },
+    {
+        "name": "Royal Rio Palace",
+        "description": {
+            "short_text": "Localizado em Copacabana, o Royal Rio Palace oferece a seus h?spedes o que h\u001824 de melhor em acomoda}65?es e servi{f3os.",
+            "text": "Localizado em Copacabana, o Royal Rio Palace oferece a seus h?spedes o que h\u001824 de melhor em acomoda}65?es e servi{f3os."
+        },
+        "contactData": {
+            "email": "reservas@royalrio.com",
+            "website": "www.royalrio.com"
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 0
+        },
+        "geoResult": {
+            "point": {
+                "lat": -22.965585,
+                "lng": -43.177943
+            },
+            "neighbourhood": "Copacabana",
+            "address": "Rua Duvivier, 82"
+        },
+        "taxonomies": [
+            {
+                "type": "Hot73is"
+            }
+        ]
+    },
+    {
+        "name": "Cama e caf35",
+        "description": {
+            "short_text": "O melhor da hospedagem domiciliar com o charme e a hospitalidade do carioca.",
+            "text": "O melhor da hospedagem domiciliar com o charme e a hospitalidade do carioca."
+        },
+        "contactData": {
+            "email": "reservas@camaecafe.com.br",
+            "website": "http://www.camaecafe.com.br"
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 0
+        },
+        "files": [
+            {
+                "file": "http://www.rioguiaoficial.com.br/sites/default/files/cama_caff0_0.jpg"
+            }
+        ],
+        "geoResult": {
+            "point": {
+                "lat": -22.92405,
+                "lng": -43.188865
+            },
+            "neighbourhood": "Santa Teresa",
+            "address": "Rua Laurinda Santos Lobo, 124"
+        },
+        "taxonomies": [
+            {
+                "type": "Cama e Caf00"
+            }
+        ]
+    },
+    {
+        "name": "Hotel Sol Ipanema",
+        "description": {
+            "short_text": "O Sol Ipanema oferece uma estrutura especial para que cada momento de sua hospedagem seja um agrad\u001da5vel prazer.",
+            "text": "O Sol Ipanema oferece uma estrutura especial para que cada momento de sua hospedagem seja um agrad\u001da5vel prazer."
+        },
+        "contactData": {
+            "email": "hotel@solipanema.com.br",
+            "website": "www.solipanema.com.br"
+        },
+        "characteristics": {
+            "price": "$$",
+            "lgbt": 1
+        },
+        "geoResult": {
+            "point": {
+                "lat": -22.986486,
+                "lng": -43.206182
+            },
+            "neighbourhood": "Ipanema",
+            "address": "Av. Vieira Souto, 320"
+        },
+        "taxonomies": [
+            {
+                "type": "Hot73is"
+            }
+        ]
+    }
+]

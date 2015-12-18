@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content= "initial-scale=1, maximum-scale=1, user-scaleble=no">
+	<link rel="stylesheet" href="css/ratchet.min.css">
+	<link rel="stylesheet" href="css/ratchet-theme-android.min.css">
+	<style>
+		
+		html {
+			height: 100%;
+		}
+		body {
+			margin-top: 50px;
+			height: 100%;
+			padding: 0;
+			margin: 0;
+		}
+		#map-canvas {
+			height: 100%;
+		}
+	
+		.titulo {
+			text-align: center;
+		}
+		.geo {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: auto
+
+    }
+	</style>
+	<title>Document</title>
+</head>
+<body>
+
+	
+	<header class="bar bar-nav">	
+		<a href="index.html" class="icon icon-bars pull-left" data-ignore="push"></a>
+		<h1 class="titulo title">VisitaRio</h1>	
+	</header>
+	
+	<header class="bar ">
+		<a href="../../ondedormirb.html" class=" icon icon-left pull-left" data-ignore="push"></a>
+		<h4 class="titulo title navigate-center" >Hotel</h4>
+	</header>
+
+	<div id="map-canvas"></div>
+
+  
+  
+	<script src="ratchet.min.js"></script>
+	<script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDcwZFOu2kHHSj2_wpCPY-S3225nF2tbeU&callback=initMap">
+    </script>
+    <script src="../../js/googleMaps/Mapster.js"></script>
+    <script src="../../js/googleMaps/objetosOndeDormir/ondeDormir02.js"></script>
+</body>
+</html>

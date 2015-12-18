@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html ng-app="visitaRio" lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content= "initial-scale=1, maximum-scale=1, user-scaleble=no">
+	<link rel="stylesheet" href="css/ratchet.min.css">
+	<link rel="stylesheet" href="css/ratchet-theme-android.min.css">
+	<style>
+
+		body {
+			margin-top: 50px;
+		}
+		.titulo {
+			text-align: center;
+		}
+		
+	</style>
+	<title>Document</title>
+</head>
+<body ng-controller="visitaRioCtrl">
+
+	
+	<header class="bar bar-nav">	
+		<a href="#" class="icon icon-bars pull-left"></a>
+		<h1 class="titulo title">VisitaRio</h1>	
+	</header>
+	
+	<header class="bar ">
+	 
+		
+			<a href="index.html" class=" icon icon-left pull-left" data-ignore="push"></a>
+			<h4 class="titulo title navigate-center" >Banheiros</h4>
+			
+	
+	</header>
+	
+  <div class="content">
+  <ul class="table-view">
+    <li class="table-view-cell media">
+      <a class="navigate-right" href="mapas/objetosHtmlBanheiro/mapaBanheiro1.html" data-ignore="push">
+        <img class="media-object pull-left" src="http://placehold.it/42x42" alt="">
+        <div class="media-body">
+          {{banheiros[0].name}}
+          <p>{{banheiros[0].description.text}}</p>
+        </div>
+      </a>
+    </li>
+    <li class="table-view-cell media">
+      <a class="navigate-right" href="mapas/objetosHtmlBanheiro/mapaBanheiro2.html">
+        <img class="media-object pull-left" src="http://placehold.it/42x42" alt="">
+        <div class="media-body">
+          {{banheiros[1].name}}
+          <p>{{banheiros[1].description.text}}</p>
+        </div>
+      </a>
+    </li>
+    <li class="table-view-cell media">
+      <a class="navigate-right" href="mapas/objetosHtmlBanheiro/mapaBanheiro3.html">
+        <img class="media-object pull-left" src="http://placehold.it/42x42" alt="">
+        <div class="media-body">
+          {{banheiros[2].name}}
+          <p>{{banheiros[2].description.text}}</p>
+        </div>
+      </a>
+    </li>
+    <li class="table-view-cell media">
+      <a class="navigate-right" href="mapas/objetosHtmlBanheiro/mapaBanheiro4.html">
+        <img class="media-object pull-left" src="http://placehold.it/42x42" alt="">
+        <div class="media-body">
+          {{banheiros[3].name}}
+          <p>{{banheiros[3].description.text}}</p>
+        </div>
+      </a>
+    </li>
+  </ul>
+  </div>
+
+
+	<script src="ratchet.min.js"></script>
+	<script src="lib/angular/angular.js"></script>
+	<script src="js/app.js"></script>
+	<script src="js/controllers/visitaRioCtrl.js"></script>
+</body>
+</html>

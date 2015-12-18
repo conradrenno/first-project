@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Rio Centro-Pavilhão 3",
+        "description": {
+            "link": [
+                "http://www.transparenciaolimpica.com.br/georef/pavilhao3.html"
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.412236,
+                "lat": -22.976836
+            }
+        },
+        "taxonomies": [
+            {
+                "type": "Modalidade",
+                "value": "Tênis de Mesa"
+            }
+        ]
+    },
+    {
+        "name": "Rio Centro-Pavilhão 4",
+        "description": {
+            "link": [
+                "http://www.transparenciaolimpica.com.br/georef/pavilhao4.html"
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.413003,
+                "lat": -22.978627
+            }
+        },
+        "taxonomies": [
+            {
+                "type": "Modalidade",
+                "value": "Badminton"
+            }
+        ]
+    },
+    {
+        "name": "Rio Centro-Pavilhão 2",
+        "description": {
+            "link": [
+                "http://www.transparenciaolimpica.com.br/georef/pavilhao2.html"
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.411123,
+                "lat": -22.975467
+            }
+        },
+        "taxonomies": [
+            {
+                "type": "Modalidade",
+                "value": "Boxe Olímpico"
+            }
+        ]
+    },
+    {
+        "name": "Centro Aquático Maria Lenk",
+        "description": {
+            "link": [
+                "http://www.transparenciaolimpica.com.br/georef/marialenk.html"
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.387582,
+                "lat": -22.97388
+            }
+        },
+        "taxonomies": [
+            {
+                "type": "Modalidade",
+                "value": "Pólo Aquático"
+            },
+            {
+                "type": "Modalidade",
+                "value": "Saltos Ornamentais"
+            }
+        ]
+    },
+    {
+        "name": "Centro Olímpico de Hóquei",
+        "description": {
+            "link": [
+                "http://www.transparenciaolimpica.com.br/georef/cohockey.html"
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.395618,
+                "lat": -22.974964
+            }
+        },
+        "taxonomies": [
+            {
+                "type": "Modalidade",
+                "value": "Hóquei"
+            },
+            {
+                "type": "Modalidade",
+                "value": "(Para)Futebol"
+            }
+        ]
+    },
+    {
+        "name": "Velódromo Olímpico do Rio",
+        "description": {
+            "link": [
+                "http://www.transparenciaolimpica.com.br/georef/velodromo.html"
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.394247,
+                "lat": -22.979691
+            }
+        },
+        "taxonomies": [
+            {
+                "type": "Modalidade",
+                "value": "Ciclismo - pista"
+            },
+            {
+                "type": "Modalidade",
+                "value": "(Para)Ciclismo-pista"
+            }
+        ]
+    },
+    {
+        "name": "Vila dos Atletas",
+        "description": {
+            "link": [
+                "http://www.transparenciaolimpica.com.br/georef/vatletas.html"
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.414694,
+                "lat": -22.983528
+            }
+        },
+        "taxonomies": [
+            {
+                "type": "Modalidade",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "name": "Parque dos Atletas",
+        "description": {
+            "link": [
+                "http://www.transparenciaolimpica.com.br/georef/pqatletas.html"
+            ]
+        },
+        "geoResult": {
+            "point": {
+                "lng": -43.406912,
+                "lat": -22.980261
+            }
+        },
+        "taxonomies": [
+            {
+                "type": "Modalidade",
+                "value": ""
+            }
+        ]
+    }
+]

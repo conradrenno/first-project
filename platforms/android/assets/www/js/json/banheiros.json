@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Praça Amambaí 13 Engenho de Dentro",
+        "description": {
+            "text": "<div><span class=\"l\">Endereço descritivo:</span>&nbsp;Praça Amambaí 13 Engenho de Dentro</div><div><span class=\"l\">AP:</span>&nbsp;4</div><div><span class=\"l\">Status:</span>&nbsp;Instalados e em funcionamento</div>"
+        },
+        "ilustration": {},
+        "geoResult": {
+            "address": "Praça Amambaí - Engenho de Dentro, Rio de Janeiro - RJ, Brasil",
+            "point": {
+                "lng": -43.294641,
+                "lat": -22.903152
+            }
+        }
+    },
+    {
+        "name": "Praça Ipupiara - Vicente de Carvalho",
+        "description": {
+            "text": "<div><span class=\"l\">Endereço descritivo:</span>&nbsp;Praça Ipupiara - Vicente de Carvalho</div><div><span class=\"l\">AP:</span>&nbsp;3</div><div><span class=\"l\">Status:</span>&nbsp;Instalados e em funcionamento</div>"
+        },
+        "ilustration": {},
+        "geoResult": {
+            "address": "Praça Ipupiara - Irajá, Rio de Janeiro - RJ, 21361-270, Brasil",
+            "point": {
+                "lng": -43.324794,
+                "lat": -22.852716
+            }
+        }
+    },
+    {
+        "name": "Praça Catende 13 Rocha Miranda",
+        "description": {
+            "text": "<div><span class=\"l\">Endereço descritivo:</span>&nbsp;Praça Catende (Sta. Eugenia) 13 Rocha Miranda</div><div><span class=\"l\">AP:</span>&nbsp;3</div><div><span class=\"l\">Status:</span>&nbsp;Instalados e em funcionamento</div>"
+        },
+        "ilustration": {},
+        "geoResult": {
+            "address": "Praça Catende - Rocha Miranda, Rio de Janeiro - RJ, Brasil",
+            "point": {
+                "lng": -43.346698,
+                "lat": -22.85148
+            }
+        }
+    },
+    {
+        "name": "Praça Oito de Maio - Rocha Miranda",
+        "description": {
+            "text": "<div><span class=\"l\">Endereço descritivo:</span>&nbsp;Praça Oito de Maio - Rocha Miranda</div><div><span class=\"l\">AP:</span>&nbsp;3</div><div><span class=\"l\">Status:</span>&nbsp;Instalados e em funcionamento</div>"
+        },
+        "ilustration": {},
+        "geoResult": {
+            "address": "Praça Oito de Maio - Rocha Miranda, Rio de Janeiro - RJ, Brasil",
+            "point": {
+                "lng": -43.351483,
+                "lat": -22.853939
+            }
+        }
+    },
+    {
+        "name": "Rua Carvalho de Souza 247 - Madureira",
+        "description": {
+            "text": "<div><span class=\"l\">Endereço descritivo:</span>&nbsp;Rua Carvalho de Souza, junto ao nº 247 - Madureira</div><div><span class=\"l\">AP:</span>&nbsp;3</div><div><span class=\"l\">Status:</span>&nbsp;Instalados e em funcionamento</div>"
+        },
+        "ilustration": {},
+        "geoResult": {
+            "address": "R. Carvalho de Sousa, 247 - Madureira, Rio de Janeiro - RJ, 21350-180, Brasil",
+            "point": {
+                "lng": -43.335469,
+                "lat": -22.875767
+            }
+        }
+    },
+    {
+        "name": "Praça Paulo Setúbal - Vila da Penha",
+        "description": {
+            "text": "<div><span class=\"l\">Endereço descritivo:</span>&nbsp;Praça Paulo Setúbal - Vila da Penha</div><div><span class=\"l\">AP:</span>&nbsp;3</div><div><span class=\"l\">Status:</span>&nbsp;Instalados e em funcionamento</div>"
+        },
+        "ilustration": {},
+        "geoResult": {
+            "address": "Praça Paulo Setúbal - Vila da Penha, Rio de Janeiro - RJ, Brasil",
+            "point": {
+                "lng": -43.311427,
+                "lat": -22.841639
+            }
+        }
+    },
+    {
+        "name": "Praça N. S. de Nazaré - Anchieta",
+        "description": {
+            "text": "<div><span class=\"l\">Endereço descritivo:</span>&nbsp;Rua Mario Verse junto a Praça N. S. de Nazaré - Anchieta</div><div><span class=\"l\">AP:</span>&nbsp;3</div><div><span class=\"l\">Status:</span>&nbsp;Instalados e em funcionamento</div>"
+        },
+        "ilustration": {},
+        "geoResult": {
+            "address": "Praça Ns. de Nazaré - Anchieta, Rio de Janeiro - RJ, Brasil",
+            "point": {
+                "lng": -43.398689,
+                "lat": -22.821524
+            }
+        }
+    },
+    {
+        "name": "Rua Santa Fé, Méier",
+        "description": {
+            "text": "<div><span class=\"l\">Endereço descritivo:</span>&nbsp;Rua Santa Fé, Jardim do Méier - Méier</div><div><span class=\"l\">AP:</span>&nbsp;3</div><div><span class=\"l\">Status:</span>&nbsp;Instalados e em funcionamento</div>"
+        },
+        "ilustration": {},
+        "geoResult": {
+            "address": "R. Santa Fé - Méier, Rio de Janeiro - RJ, 20775-065, Brasil",
+            "point": {
+                "lng": -43.278304,
+                "lat": -22.899383
+            }
+        }
+    }
+]
